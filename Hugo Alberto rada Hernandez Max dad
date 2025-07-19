@@ -1,6 +1,17 @@
-<Error>
+<!DOCTYPE html>
+<html lang="en
+">
+<head>
+  <meta charset="UTF-8">
+  <title>Caduceo</title>
+</head>
+<body>
+  <h1>Símbolo de Caduceo</h1>.
+  <Error>
 <Code>HttpVersionNotSupported</Code>
 <Message>The HTTP version specified is not supported.</Message>
 <RequestId>941B1DE8242035A6</RequestId_Dl#26882788tx>
 <HostId>ixSbxd55wgOkwFNA/t/eCfC3TY1S0LMFISvPRN4r55/zH75g2zCR2OkAMTWHSaSCowK7oT38wGeMgPK26rbcat9q+Arey9Ya</HostId>
 </Error>
+7
+.
